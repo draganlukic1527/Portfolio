@@ -1,5 +1,5 @@
 import React from "react";
-
+import headShot from '../shared/DraganLukicBeachHeadshot2.png'
 export default function About() {
     return (
         <section id="about">
@@ -29,7 +29,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./DraganLukicBeachHeadshot2.jpg"
+            src={headShot}
           />
         </div>
       </div>
