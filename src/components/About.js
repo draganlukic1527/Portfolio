@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" /> I Enjoy Building Software Solutions!
           </h1>
           <p className="mb-8 leading-relaxed">
-          Experienced Software Engineer with a demonstrated skill in a variety of tools and languages. Skilled in Angular, Node.JS, React, Redux, NgRx, RxJs, etc... Strong engineering professional with a Bachelor of Science - BS focused in Computer Science, Minor in Business Administration from California State University San Marcos. 
+          I am a experienced Software Engineer with a demonstrated skill in a variety of tools and languages. Skilled in Angular, Node.JS, React, Redux, NgRx, RxJs, etc... Strong engineering professional with a Bachelor of Science - BS focused in Computer Science, Minor in Business Administration from California State University San Marcos. 
           </p>
           <div className="flex justify-center">
             <a
